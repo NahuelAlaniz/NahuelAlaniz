@@ -1,6 +1,6 @@
 # 💫 About Me:
 ¡Hola! Soy un apasionado programador front-end de Argentina con 25 años de experiencia en la vida y una gran motivación por aprender y crecer en el mundo del desarrollo web. Mi objetivo es aportar valor a cada proyecto en el que participo, combinando creatividad y habilidades técnicas para construir experiencias digitales atractivas e intuitivas.<br><br>Tengo una sólida comprensión de HTML, CSS y JavaScript, y disfruto trabajando con frameworks y bibliotecas modernas que mejoran la eficiencia y la calidad del código. Me encanta mantenerme actualizado con las últimas tendencias y tecnologías, lo que me permite aportar ideas frescas y soluciones innovadoras a cada desafío.<br><br>Estoy en constante búsqueda de nuevas oportunidades para colaborar en proyectos emocionantes y desafiantes. Si estás buscando a alguien con entusiasmo, dedicación y ganas de aportar al máximo, ¡me encantaría conectarme contigo y explorar cómo podemos trabajar juntos!<br>
-<br>---<br>
+
 
 
 ## 🌐 Socials:
