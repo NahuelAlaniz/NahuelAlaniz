@@ -1,13 +1,14 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado programador front-end de Argentina con 25 años de experiencia en la vida y una gran motivación por aprender y crecer en el mundo del desarrollo web. Mi objetivo es aportar valor a cada proyecto en el que participo, combinando creatividad y habilidades técnicas para construir experiencias digitales atractivas e intuitivas.<br><br>Tengo una sólida comprensión de HTML, CSS y JavaScript, y disfruto trabajando con frameworks y bibliotecas modernas que mejoran la eficiencia y la calidad del código. Me encanta mantenerme actualizado con las últimas tendencias y tecnologías, lo que me permite aportar ideas frescas y soluciones innovadoras a cada desafío.<br><br>Estoy en constante búsqueda de nuevas oportunidades para colaborar en proyectos emocionantes y desafiantes. Si estás buscando a alguien con entusiasmo, dedicación y ganas de aportar al máximo, ¡me encantaría conectarme contigo y explorar cómo podemos trabajar juntos!<br>
+¡Hola! Soy un programador front-end de Argentina, con una fuerte motivación por aprender y crecer en el desarrollo web. Tengo experiencia en HTML, CSS y JavaScript, y actualmente me estoy enfocando en Angular. Estoy subiendo mis proyectos a GitHub a medida que avanzo.
 
-| Proyecto                          | Descripción                                | Ver Código                          | Ver Proyecto                       |
-|-----------------------------------|--------------------------------------------|-------------------------------------|-------------------------------------|
-| Landing Page with GSAP Animations | Landing page utilizando GSAP               | [Ver Código](#)                     | [Ver Proyecto](#)                  |
-| Responsive Vertical Timeline      | Línea de tiempo responsiva                 | [Ver Código](#)                     | [Ver Proyecto](#)                  |
-| Landing Page with Tailwind        | Landing page utilizando Tailwind           | [Ver Código](#)                     | [Ver Proyecto](#)                  |
-| Toggle Button - Dark and Light Mode | Toggle Button con activación de dark mode | [Ver Código](#)                     | [Ver Proyecto](#)                   |
-| CSS 3D Text Animation Effects     | Línea de tiempo responsiva                 | [Ver Código](#)                     | [Ver Proyecto](#)                   |
+Busco oportunidades para colaborar en proyectos interesantes.
+
+| Proyecto             | Descripción                                               | Ver Código                       | Ver Proyecto                       |
+|----------------------|-----------------------------------------------------------|----------------------------------|------------------------------------|
+| My first angular app | Enumera casas en alquiler mostrando detalles de las casas.| [Ver Código](https://github.com/NahuelAlaniz/my-first-angular-app)                  | [Ver Proyecto](#)                  |
+| My second angular app| Bloques para empezar a construir aplicaciones con Angular | [Ver Código](#)                  | [Ver Proyecto](https://github.com/NahuelAlaniz/my-second-angular-app)                  |
+| My third angular app | Comedores disponibles detallandos las bebidas             | En progreso                  | En Progreso                  |
+
 
 
 ## 🌐 Socials:
