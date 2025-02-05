@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un programador front-end de Argentina, con una fuerte motivación por aprender y crecer en el desarrollo web. Tengo experiencia en HTML, CSS y JavaScript, y actualmente me estoy enfocando en Angular. Estoy subiendo mis proyectos a GitHub a medida que avanzo.
+¡Hola! Soy un programador front-end de Argentina, con gana de de aprender  desarrollo web. Tengo experiencia en HTML, CSS y JavaScript, y actualmente me estoy enfocando en Angular. Estoy subiendo mis proyectos a GitHub a medida que avanzo.
 
 Busco oportunidades para colaborar en proyectos interesantes.
 
