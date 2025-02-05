@@ -5,9 +5,9 @@ Busco oportunidades para colaborar en proyectos interesantes.
 
 | Proyecto             | Descripción                                               | Ver Código                       | Ver Proyecto                       |
 |----------------------|-----------------------------------------------------------|----------------------------------|------------------------------------|
-| My first angular app | Bloques para empezar a construir aplicaciones con Angular  | [Ver Código](https://github.com/NahuelAlaniz/my-first-angular-app)                  | [Proximamente]()                  |
-| My second angular app| Enumera casas en alquiler mostrando detalles de las casas.  | [Ver Código](#)                  | [Proximamente]()                  |
-| My third angular app | Comedores disponibles detallandos las bebidas             | En progreso                  | En Progreso                  |
+| My first angular app | Bloques para empezar a construir aplicaciones con Angular | [Ver Código](https://github.com/NahuelAlaniz/my-first-angular-app)    | [Proximamente]()                |
+| My second angular app| Enumera casas en alquiler mostrando detalles de las casas.| [Ver Código](#)                  | [Ver Página]()                  |
+| My third angular app | Comedores disponibles detallandos las bebidas             | [Ver Código](https://github.com/NahuelAlaniz/my-third-angular-app) |[Ver Página](https://nahuelalaniz.github.io/my-third-angular-app/)        |
 
 
 
