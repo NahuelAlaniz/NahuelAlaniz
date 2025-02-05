@@ -5,7 +5,7 @@ Busco oportunidades para colaborar en proyectos interesantes.
 
 | Proyecto             | Descripción                                               | Ver Código                       | Ver Proyecto                       |
 |----------------------|-----------------------------------------------------------|----------------------------------|------------------------------------|
-| My third angular app | Comedores disponibles detallandos las bebidas             | [Ver Código](https://github.com/NahuelAlaniz/my-third-angular-app) |[Ver Página](https://nahuelalaniz.github.io/my-third-angular-app/)        |
+| My third angular app | Comedores disponibles detallando disponibilidad de bebidas             | [Ver Código](https://github.com/NahuelAlaniz/my-third-angular-app) |[Ver Página](https://nahuelalaniz.github.io/my-third-angular-app/)        |
 
 
 
